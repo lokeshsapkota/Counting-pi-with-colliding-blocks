@@ -1,7 +1,6 @@
 # Counting-pi-with-colliding-blocks
-# The Number Pi (π) from a Collision Point of View
 
-This project explores the concept presented by G. Galperin, focusing on the collision dynamics of rectangular blocks governed by the value of π (pi). The goal is to simulate a pool game scenario where two blocks collide based on the calculated value of π. The user has the ability to input the desired number of digits of pi to be considered, and the program calculates the value of pi accordingly, utilizing it in the simulation. The project is implemented using the Pygame library in conjunction with OpenGL.
+This project explores the concept presented by G. Galperin and its visualization on YouTube by 3Blue1Brown, focusing on the collision dynamics of rectangular blocks governed by the value of π (pi). The goal is to simulate a pool game scenario where two blocks collide based on the calculated value of π. The user has the ability to input the desired number of digits of pi to be considered, and the program calculates the value of pi accordingly, utilizing it in the simulation. The project is implemented using the Pygame library in conjunction with OpenGL.
 
 ## Project Background
 
@@ -68,6 +67,17 @@ Ensure that these dependencies are properly installed before executing the proje
 5. Observe the simulation, including the collision count and the expected value of pi.
 
 6. Close the window or terminate the program when you wish to exit.
+
+![Initial prompt to input the number of digits of pi](https://github.com/lokeshsapkota/Counting-pi-with-colliding-blocks/assets/64772372/3f0d41c6-5d84-4503-933f-653308af988b)
+
+*Initial prompt to input the number of digits of pi*
+
+![Post-Simulation window when the input number of digits of pi is 3. Here, the Collisions and expected pi value are equal i.e., 3141](https://github.com/lokeshsapkota/Counting-pi-with-colliding-blocks/assets/64772372/87d1197d-4462-4da4-b1da-3d479e7b54bd)
+
+*Post-Simulation window when the input number of digits of pi is 3. Here, the Collisions and expected pi value are equal i.e., 3141*
+
+
+
 
 <!-- ## Contributing
 
