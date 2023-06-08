@@ -1,6 +1,6 @@
 # Counting-pi-with-colliding-blocks
 
-This project explores the concept presented by G. Galperin and its visualization on YouTube by 3Blue1Brown, focusing on the collision dynamics of rectangular blocks governed by the value of π (pi). The goal is to simulate a pool game scenario where two blocks collide based on the calculated value of π. The user has the ability to input the desired number of digits of pi to be considered, and the program calculates the value of pi accordingly, utilizing it in the simulation. The project is implemented using the Pygame library in conjunction with OpenGL.
+This project explores the concept presented by G. Galperin and its visualization on YouTube by 3Blue1Brown, focusing on the collision dynamics of rectangular blocks and generate the value of π (pi). The goal is to simulate a pool game scenario where two blocks collide elastically and calculate the value of π. The user has the ability to input the desired number of digits of pi to be considered, and the program calculates the value of pi accordingly, and simulates. The project is implemented using the Pygame library in conjunction with OpenGL.
 
 ## Project Background
 
